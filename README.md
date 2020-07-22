@@ -1,2 +1,2 @@
-# spring-boot-security
+# spring-security
 Basics of Spring Boot Security 
